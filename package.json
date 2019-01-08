@@ -1,0 +1,26 @@
+{
+  "name": "serverless-python3.7-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "serverless-python-requirements": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fwang/python-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fwang/python-hello-world/issues"
+  },
+  "homepage": "https://github.com/fwang/python-hello-world#readme"
+}
